@@ -18,4 +18,4 @@ variable "my_key"{
   default = "terraformkey"
 }
 
-#data = data.aws_ami.amzlinux2.id
+#adata = data.aws_ami.amzlinux2.id
